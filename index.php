@@ -25,5 +25,6 @@ $client = (new lib\Config())->getCloudWatchClient($conf);
 
 foreach ($conf->metrics as $metrics) {
     foreach ($metrics as $metricName => $metric) {
+        /// WHAT TODO
     }
 }
