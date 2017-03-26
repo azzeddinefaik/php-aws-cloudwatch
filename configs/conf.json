@@ -1,0 +1,21 @@
+
+{
+  "aws": {
+    "key":"YOUR_KEY",
+    "secret":"YOUR_SECRET",
+    "region":"YUR_REGION",
+    "instance":"INSTANCE_ID"
+  },
+  "alarms" : {
+    "action":"YOUR_ALARM_ACTION_ARM"
+  },
+  "metrics": [
+    {
+      "Memory" : {
+        "name" : "Memory",
+        "namespace": "YOUR_NAMESPACE",
+        "description": "YOUR_COMMENT"
+      }
+    }
+  ]
+}
