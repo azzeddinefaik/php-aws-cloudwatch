@@ -86,3 +86,5 @@ Temporary Items
 
 /vendor/
 /credentials.php
+/.idea/
+.idea/
