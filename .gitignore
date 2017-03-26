@@ -85,3 +85,4 @@ Temporary Items
 .nfs*
 
 /vendor/
+/credentials.php
