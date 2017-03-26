@@ -1,4 +1,5 @@
 <?php
+namespace Metrics;
 
 class MemoryMonitoring extends AbstractMonitoring
 {
